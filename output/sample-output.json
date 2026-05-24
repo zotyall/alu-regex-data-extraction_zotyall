@@ -1,0 +1,86 @@
+{
+  "security": {
+    "threats_found": [
+      "XSS script tag detected",
+      "Javascript injection detected",
+      "SQL injection detected",
+      "Path traversal detected"
+    ]
+  },
+  "emails": {
+    "alu_official": [
+      "support@alueducation.com",
+      "finance@alueducation.com"
+    ],
+    "alu_alumni": [
+      "james.okafor@alumni.alueducation.com",
+      "amara.diallo@alumni.alueducation.com"
+    ],
+    "alu_si": [
+      "director@si.alueducation.com",
+      "coord.2026@si.alueducation.com"
+    ],
+    "external": [
+      "john.doe@gmail.com",
+      "contact@microsoft.com"
+    ]
+  },
+  "urls": [
+    "https://www.alueducation.com",
+    "https://portal.alueducation.com/login",
+    "http://events.alueducation.com/hackathon",
+    "https://www.google.com"
+  ],
+  "phone_numbers": [
+    "+250 788 123 456",
+    "+1 800 555 0199",
+    "212) 555-0100",
+    "078-123-4567",
+    "+44 20 7946 0958",
+    "3714 496353 98431"
+  ],
+  "credit_cards": [
+    "** ** ** 1111",
+    "** ** ** 0004",
+    "** ** ** 1117",
+    "** ** ** 8431"
+  ],
+  "times": {
+    "12_hour": [
+      "8:00 AM",
+      "12:30 PM",
+      "7:00 PM"
+    ],
+    "24_hour": [
+      "12:30",
+      "23:45",
+      "02:00",
+      "17:00"
+    ]
+  },
+  "html_tags": [
+    "<h1>",
+    "</h1>",
+    "<p>",
+    "</p>",
+    "<a href=\"#\">",
+    "</a>",
+    "<br />",
+    "<script>",
+    "</script>"
+  ],
+  "hashtags": [
+    "#ALU2026",
+    "#BreakTheSilence",
+    "#GBVAwareness",
+    "#StudentLife",
+    "#ALUKigali",
+    "#TechForAfrica"
+  ],
+  "currency": [
+    "$12500.00",
+    "$4750.50",
+    "\u20ac89.00",
+    "RWF 150000"
+  ]
+}

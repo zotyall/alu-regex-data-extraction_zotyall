@@ -1,0 +1,70 @@
+ALU STUDENT SERVICES BULLETIN — May 2026
+
+=== CONTACTS ===
+
+support@alueducation.com
+finance@alueducation.com
+james.okafor@alumni.alueducation.com
+amara.diallo@alumni.alueducation.com
+director@si.alueducation.com
+coord.2026@si.alueducation.com
+john.doe@gmail.com
+contact@microsoft.com
+notvalid@@broken.org
+
+=== WEBSITES ===
+
+https://www.alueducation.com
+https://portal.alueducation.com/login
+http://events.alueducation.com/hackathon
+https://www.google.com
+
+=== PHONE NUMBERS ===
+
++250 788 123 456
++1 800 555 0199
+(212) 555-0100
+078-123-4567
++44 20 7946 0958
+
+=== CREDIT CARDS ===
+
+4111 1111 1111 1111
+5500 0000 0000 0004
+3714 496353 98431
+6011 1111 1111 1117
+
+=== SCHEDULE ===
+
+Morning session at 8:00 AM
+Lunch break at 12:30 PM
+Evening session at 7:00 PM
+Server backup at 23:45
+Maintenance window at 02:00
+Deployment at 17:00
+
+=== HTML SNIPPET ===
+
+<h1>Welcome to ALU</h1>
+<p>Your dashboard is ready.</p>
+<a href="#">Go to portal</a>
+<br />
+
+=== HASHTAGS ===
+
+#ALU2026 #BreakTheSilence #GBVAwareness
+#StudentLife #ALUKigali #TechForAfrica
+
+=== FEES ===
+
+Tuition: $12500.00
+Scholarship: $4750.50
+Transport: RWF 150000
+Meals: €89.00
+
+=== SECURITY TESTS ===
+
+<script>alert('xss')</script>
+DROP TABLE students;
+../../../etc/passwd
+javascript:void(0)
